@@ -1,0 +1,47 @@
+# Khush Rajyaguru - Personal Portfolio
+
+## Project Overview
+A simple personal portfolio for the Week 1 HTML assignment. It uses basic HTML only, without CSS or JavaScript.
+
+## Project Structure
+```text
+khush-rajyaguru-portfolio/
+├── index.html
+├── README.md
+└── IMG/ 
+     └── index
+```
+
+## How to Run
+1. Open this folder in Visual Studio Code.
+2. Open `index.html` in a browser, or use the Live Server extension.
+3. The page can also be opened directly by double-clicking `index.html`.
+
+## HTML Concepts Used
+- HTML5 document structure: `DOCTYPE`, `html`, `head`, and `body`.
+- Headings and paragraphs: `h1`, `h2`, `h3`, and `p`.
+- Links and internal navigation using `a` and `href`.
+- Lists using `ul` and `li`.
+- Semantic elements: `header`, `nav`, `main`, `section`, `article`, and `footer`.
+- Forms using `form`, `label`, `input`, `textarea`, and `button`.
+- Attributes such as `id`, `lang`, `charset`, `name`, `type`, and `required`.
+
+## Website Sections
+About Me, Technical Skills, Experience, Projects, Education, Certifications, and Contact.
+
+## Contact Form Note
+The form demonstrates basic HTML fields and browser validation. It does not send or save messages because this project has no backend or form service.
+
+## Testing Checklist
+1. Open the page in a browser.
+2. Click each navigation link and confirm it reaches the correct section.
+3. Submit the empty form and check required-field validation.
+4. Enter an invalid email and check email validation.
+5. Test the email and phone links.
+6. Validate the HTML at https://validator.w3.org/nu/.
+
+## Screenshot Evidence
+Take your own browser screenshots of the heading/navigation, About and Skills, Experience and Projects, Education and Certifications, and Contact form. Add them to a `screenshots/` folder for submission.
+
+## Technical Details
+This is a static, single-page HTML website. HTML defines its content and structure. No CSS, JavaScript, database, server, or advanced algorithm is used, keeping the project at a beginner Week 1 level.
