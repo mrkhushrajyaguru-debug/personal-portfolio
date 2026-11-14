@@ -32,16 +32,5 @@ About Me, Technical Skills, Experience, Projects, Education, Certifications, and
 ## Contact Form Note
 The form demonstrates basic HTML fields and browser validation. It does not send or save messages because this project has no backend or form service.
 
-## Testing Checklist
-1. Open the page in a browser.
-2. Click each navigation link and confirm it reaches the correct section.
-3. Submit the empty form and check required-field validation.
-4. Enter an invalid email and check email validation.
-5. Test the email and phone links.
-6. Validate the HTML at https://validator.w3.org/nu/.
-
-## Screenshot Evidence
-Take your own browser screenshots of the heading/navigation, About and Skills, Experience and Projects, Education and Certifications, and Contact form. Add them to a `screenshots/` folder for submission.
-
 ## Technical Details
 This is a static, single-page HTML website. HTML defines its content and structure. No CSS, JavaScript, database, server, or advanced algorithm is used, keeping the project at a beginner Week 1 level.
