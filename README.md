@@ -4,7 +4,8 @@
 A simple personal portfolio for the Week 1 HTML assignment. It uses basic HTML only.
 ## Project Structure
 ```text
-khush-rajyaguru-portfolio/
+
+personal-portfolio/
 ├── index.html
 ├── README.md
 └── IMG/ 
