@@ -9,7 +9,7 @@ personal-portfolio/
 ├── index.html
 ├── README.md
 └── IMG/ 
-     └── index
+     └── img-pro.jpeg
 ```
 
 ## How to Run
